@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 
 def generate_test_tree(test_dir,overwrite=False):
+    """
+    No I have some documentation. Still not very useful
+    but still...
+    """
     seasons = 'spring summer autumn winter'.split()
     animals = 'cat dog bat monkey elephant'.split()
 
